@@ -1,0 +1,7 @@
+Save the file and extract it
+change the codes where the path is required
+open CMD
+cd "the path to the project"
+Run this command ->    pip install -r requirements.txt  
+                 ->    pip install opencv-python opencv-python-headless
+Run this Command ->    python traffic_monitoring.py
